@@ -24,4 +24,5 @@ Aplikacija za Android, ki služi kot demonstracija uporabniškega vmesnika za re
 
 ---
 
-<img width="720" height="1600" alt="Screenshot_20261023-175701_Registration_form_app" src="https://github.com/user-attachments/assets/5b8da938-a384-41d4-884a-b442b5cf0d2e" />
+<img width="360" height="800" alt="Registration_form_app-screenshot" src="https://github.com/user-attachments/assets/bcd8b877-341e-47ad-8d91-cd47d9932e57" />
+
